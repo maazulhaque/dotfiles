@@ -66,6 +66,7 @@ plugins=(
   zsh-syntax-highlighting
   zsh-autosuggestions
   git
+  vscode
 )
 
 # source ~/dostfiles/zsh/plugins/oh-my-zsh/tools/install.sh
