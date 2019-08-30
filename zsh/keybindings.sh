@@ -1,6 +1,6 @@
-# up
-	function up_widget() {
-		BUFFER="cd .."
+# clear
+	function clear_widget() {
+		BUFFER="clear"
 		zle accept-line
 	}
 	zle -N up_widget
